@@ -1,0 +1,25 @@
+{
+  "name": "three-chillies",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3 Chillies — multi-page Indo-Chinese restaurant website with a cinematic hero, Supabase-backed menu, and a hidden admin CRM.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "framer-motion": "11.3.19",
+    "zustand": "4.5.4",
+    "@supabase/supabase-js": "2.45.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.19",
+    "postcss": "8.4.40",
+    "tailwindcss": "3.4.7"
+  }
+}

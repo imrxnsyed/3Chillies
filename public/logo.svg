@@ -1,0 +1,22 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="3 Chillies logo">
+  <circle cx="60" cy="60" r="58" fill="#17140f"/>
+  <circle cx="60" cy="60" r="50" fill="#fffdf8"/>
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#c9a24b" stroke-width="2"/>
+  <!-- red chili -->
+  <g transform="rotate(-18 60 60)">
+    <path d="M60 44 C74 44 84 56 84 74 C84 84 78 90 72 90 C74 82 70 70 60 66 C64 58 62 50 60 44 Z" fill="#d5372a"/>
+    <path d="M60 44 C61 40 64 38 68 39" fill="none" stroke="#4f9b39" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <!-- green chili -->
+  <g transform="rotate(102 60 60)">
+    <path d="M60 44 C74 44 84 56 84 74 C84 84 78 90 72 90 C74 82 70 70 60 66 C64 58 62 50 60 44 Z" fill="#4f9b39"/>
+    <path d="M60 44 C61 40 64 38 68 39" fill="none" stroke="#3a7a2b" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <!-- yellow chili -->
+  <g transform="rotate(222 60 60)">
+    <path d="M60 44 C74 44 84 56 84 74 C84 84 78 90 72 90 C74 82 70 70 60 66 C64 58 62 50 60 44 Z" fill="#f0a92b"/>
+    <path d="M60 44 C61 40 64 38 68 39" fill="none" stroke="#4f9b39" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <!-- number 3 -->
+  <text x="60" y="72" font-family="Georgia, serif" font-size="40" font-weight="700" fill="#17140f" text-anchor="middle">3</text>
+</svg>
